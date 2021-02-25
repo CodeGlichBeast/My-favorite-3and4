@@ -1,0 +1,4 @@
+function moreinfo()
+{
+  window.alert("Usain St Leo Bolt, OJ, CD is a Jamaican former sprinter, widely considered to be the greatest sprinter of all time. He is a world record holder in the 100 metres, 200 metres and 4 × 100 metres relay.The timing was enough to make 28-year-old Srinivasa Gowda the fastest runner in the history of the traditional sport of the coastal region, breaking a 30-year-old record. It also led to comparisons with Bolt's world record sprint of 100 meters in just 9.58 seconds.In 2009 Jamaican sprinter Usain Bolt set the world record in the 100-meter sprint at 9.58 seconds. For those of us more accustomed to sitting than sprinting, to translate this feat into terms of speed is to simply underscore the stunning nature of Bolt's performance.");
+}

@@ -1,0 +1,70 @@
+.line{
+    height: 8px;
+        background-color:aqua;
+    width:900px;
+        margin:8px auto;
+}
+#UBS{
+  text-align:center;
+ background:linear-gradient(#FFFF00 0%, #212121 100%);
+  top:0px;
+    bottom:0px;
+  right:0px;
+    left:0px     
+}
+body{
+background-color: aquamarine;
+}
+p{
+  color:red
+}
+.menu{
+    list-style: none;
+    font-family: monospace;
+    top:10px;
+    cursor:pointer;
+    color:navy;
+    right:30px;
+    position:fixed;
+}   
+.link{
+     display:inline;
+    margin-right:30px;
+    padding-right: 5px;
+        padding-left: 5px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+     cursor:pointer;
+}
+.link:hover{
+    background-color: cyan;
+}
+
+#favoritebook{
+    text-align:center;
+ background:blueviolet;
+    right:auto;
+    left:auto;
+  
+}
+ 
+#favbook{
+    width:500px;
+    height: 500px;
+}
+.i:hover{
+    transform:scale(0.9)
+}
+.i{
+ width: 500px;
+    height: 500px;
+}
+#i{
+    text-align: center;
+    background-color: gold;
+}
+#life{
+    background-color: aqua;
+    text-align: center;
+    font-family:fantasy
+}
